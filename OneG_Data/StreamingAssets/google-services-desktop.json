@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761236195037",
+    "firebase_url": "https://oneg-66708-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "oneg-66708",
+    "storage_bucket": "oneg-66708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761236195037:android:8403a5ad604187dcc9bd34",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FPSGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761236195037-msfjatkjiqmdu92gmvl0qjt4qdj6oj5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKfKp3Un0aiBERm5HCq8JVRUUFH2tTOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761236195037-msfjatkjiqmdu92gmvl0qjt4qdj6oj5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
